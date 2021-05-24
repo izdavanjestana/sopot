@@ -1,1 +1,60 @@
+p {
+color: black;
+font-size: 1.02em;
+font-family: Arial;
+}
+h1 {
+text-align:center;
+margin-bottom: 10px;
+color: black;
+font-family: Arial;
+}
+h2 {
+margin-left: 25px;
+color: black;
+font-family: Arial;
+}
+body {
+max-width: 100%;
+background: #fffff;
+}
+ul {
+color: black;
+font-size: 1.02em;
+font-family: Arial;
+}
 
+/* saša komande*/
+.sasa{
+border-top:3px solid #E04534;
+border-bottom:3px solid #E04534;
+margin: 0 7% 0 7%;
+}
+.desno{
+text-align:right;
+margin-right:10px;
+}
+.centar{
+text-align:center;
+}
+h3, h4, h5, h6 {
+margin-left: 20px;
+}
+.sasa-6{
+	text-align:center;
+float:left;
+width:50%;
+color:#000000;
+margin-bottom:50px;
+}
+.info{
+font-size:18px;
+line-height: 1.6;
+text-align:center;
+}
+.naslov{
+border-top:2px solid #E04534;
+border-bottom:2px solid #E04534;
+margin-left:20%;
+margin-right:20%;
+}
